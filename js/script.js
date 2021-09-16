@@ -48,7 +48,7 @@ function chooseInfo(button) {
                     "<p><span class='bold'> Мета: </span> придбати практичні навички роботи  з HTML-документом, " +
                     "таблицями, формами, зображеннями, посиланнями. Створити шаблон звітного HTML-документом для " +
                     "відображення результатів роботи всіх лабораторних робіт.\n</p>" +
-                    "<p><span class='bold'> Посилання на ЛР: </span></p>";
+                    "<p><span class='bold'> Посилання на ЛР: https://anuchek.github.io/films4you-lab1/ </span></p>";
                 break;
             case "structure":
                 document.querySelector("main .content").innerHTML = "<div class=\"structure\">\n" +
